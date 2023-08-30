@@ -1,5 +1,8 @@
 = Settingslogic
 
+This is a fork from the original http://github.com/settingslogic/settingslogic, that seems abandonned.
+We merged some PRs that are pending on the original repo.
+
 Settingslogic is a simple configuration / settings solution that uses an ERB enabled YAML file. It has been great for
 our apps, maybe you will enjoy it too.  Settingslogic works with Rails, Sinatra, or any Ruby project.
 
